@@ -1,6 +1,6 @@
 # RHCSA Projects
 
-This repository contains a curated set of hands‑on projects and study notes to prepare for the **Red Hat Certified System Administrator (RHCSA)** exam.  Each numbered directory maps to a major exam objective and contains a `README.md` explaining the concepts, along with one or more scripts or lab guides you can run to practise the topic.
+This repository contains a curated set of hands‑on projects and study notes to prepare for the **Red Hat Certified System Administrator (RHCSA)** exam.  Each numbered directory maps to a major exam objective and contains a `README.md` explaining the concepts, along with one or more scripts or lab guides you can run to practice the topic.
 
 ## Modules overview
 
