@@ -1,4 +1,4 @@
-# 03 – Permissions and Access Control Lists (ACLs)
+# 📁 03 – Permissions and Access Control Lists (ACLs)
 
 This module dives into Linux file permissions, ownership, special permission bits, default umask settings, access control lists and extended file attributes.  Mastering permissions is essential for securing services and delegating access appropriately.
 

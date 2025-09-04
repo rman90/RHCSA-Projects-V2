@@ -1,4 +1,4 @@
-# 06 – Networking Configuration
+# 📁 06 – Networking Configuration
 
 Correctly configuring network interfaces is essential for connecting to services, repositories and remote hosts.  This module covers IPv4/IPv6 addressing, `nmcli`, `nmtui`, hostnames and DNS.
 

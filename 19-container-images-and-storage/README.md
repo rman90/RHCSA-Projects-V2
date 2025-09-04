@@ -1,4 +1,4 @@
-# 19 – Container Images and Persistent Storage
+# 📁 19 – Container Images and Persistent Storage
 
 This module digs deeper into building images and persisting data across container restarts.
 

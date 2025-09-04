@@ -1,4 +1,4 @@
-# 12 – Container Management with Podman
+# 📁 12 – Container Management with Podman
 
 Containers provide isolated environments to run applications.  Unlike virtual machines, containers share the host kernel and are lightweight.  Red Hat uses **Podman** as its container engine in place of Docker.
 

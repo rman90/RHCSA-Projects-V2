@@ -1,4 +1,4 @@
-# 01 – Getting Started with Linux
+# 📁 01 – Getting Started with Linux
 
 This module introduces you to the Linux command line.  Knowing how to move around the filesystem and manipulate files is foundational for every other RHCSA objective.
 

@@ -1,4 +1,4 @@
-# 13 – Software and Repository Management
+# 📁 13 – Software and Repository Management
 
 Installing, updating and removing software is a fundamental administrator task.  RHEL uses RPM packages managed by the DNF package manager.  This module covers RPM/DNF basics, module streams and setting up a simple local repository.
 

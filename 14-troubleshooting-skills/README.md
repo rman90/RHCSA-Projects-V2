@@ -1,4 +1,4 @@
-# 14 – Troubleshooting Skills
+# 📁 14 – Troubleshooting Skills
 
 Effective administrators know how to diagnose and resolve problems quickly.  This module consolidates several troubleshooting areas covered throughout the course: SELinux, systemd journals vs rsyslog, rescue/emergency modes and log rotation.
 

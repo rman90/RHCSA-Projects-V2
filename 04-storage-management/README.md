@@ -1,4 +1,4 @@
-# 04 – Storage Management
+# 📁 04 – Storage Management
 
 This module covers managing disks and filesystems on RHEL, including basic partitioning, formatting, mounting, using labels/UUIDs and an introduction to Logical Volume Management (LVM).
 

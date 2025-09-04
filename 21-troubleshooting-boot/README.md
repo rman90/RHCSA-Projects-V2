@@ -1,4 +1,4 @@
-# 21 – Boot Troubleshooting
+# 📁 21 – Boot Troubleshooting
 
 This final module gathers advanced techniques for fixing boot failures.  Use it alongside Module 11 on the boot process.  Here you learn to diagnose missing devices, incorrect `fstab` entries and broken initramfs images.
 
