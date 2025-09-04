@@ -1,4 +1,4 @@
-# 09 – Scheduling Tasks
+# 📁 09 – Scheduling Tasks
 
 Automating tasks frees administrators from manual repetition.  RHEL supports three major scheduling mechanisms: cron, at and systemd timers.
 

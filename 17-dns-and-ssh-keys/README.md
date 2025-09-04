@@ -1,4 +1,4 @@
-# 17 – DNS and SSH Key Management
+# 📁 17 – DNS and SSH Key Management
 
 This module covers configuring hostname and DNS resolution on RHEL and managing SSH public keys for secure authentication.
 

@@ -1,4 +1,4 @@
-# 15 – Logging and Monitoring
+# 📁 15 – Logging and Monitoring
 
 Keeping track of what happens on your system is vital for troubleshooting and auditing.  This module focuses on configuring persistent logs, filtering rsyslog messages and exploring logs with journalctl and logrotate.
 

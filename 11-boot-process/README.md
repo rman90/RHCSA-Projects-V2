@@ -1,4 +1,4 @@
-# 11 – Boot Process and System Recovery
+# 📁 11 – Boot Process and System Recovery
 
 This module explains the stages of a Linux boot, common failure points and techniques to recover when things go wrong.  You will learn how to interrupt GRUB, modify kernel arguments, enter rescue or emergency modes and reset the root password.
 

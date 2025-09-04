@@ -1,4 +1,4 @@
-# 02 – User and Group Management
+# 📁 02 – User and Group Management
 
 Managing users and groups is a core RHCSA skill.  This module explains how account information is stored, how to create and modify users, and how to delegate administrative privileges safely.
 

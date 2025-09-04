@@ -1,4 +1,4 @@
-# 07 – Routing, VLANs and NAT
+# 📁 07 – Routing, VLANs and NAT
 
 When your server acts as a router or gateway it must forward traffic between networks.  In RHCSA you may be asked to add static routes, configure VLAN interfaces or set up simple NAT.  Firewalld makes these tasks straightforward.
 

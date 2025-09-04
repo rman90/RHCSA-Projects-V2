@@ -1,4 +1,4 @@
-# 10 – Advanced Storage
+# 📁 10 – Advanced Storage
 
 This module builds on the basics of LVM by showing how to extend existing volume groups, resize logical volumes and filesystems, take snapshots and safely remove physical volumes.  These tasks are common in real systems when storage needs grow or when disks must be replaced.
 

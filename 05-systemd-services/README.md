@@ -1,4 +1,4 @@
-# 05 – Systemd Services and Journals
+# 📁 05 – Systemd Services and Journals
 
 RHEL uses the `systemd` init system to manage everything from services and sockets to mount points and timers.  This module explains how to control services, work with unit files and troubleshoot using the journal.
 

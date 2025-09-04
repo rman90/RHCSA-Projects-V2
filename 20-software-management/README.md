@@ -1,4 +1,4 @@
-# 20 – Software Management with RPM and DNF
+# 📁 20 – Software Management with RPM and DNF
 
 This module consolidates everything you need to know about installing, removing and managing software on RHEL using the RPM package format and the DNF package manager.
 
